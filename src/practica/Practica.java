@@ -18,7 +18,7 @@ public class Practica {
         // TODO code application logic here
         
         ////nuevooosss
-        
+        //ffffff
         ///Editado
         ini();
     }
