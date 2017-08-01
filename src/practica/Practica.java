@@ -21,6 +21,9 @@ public class Practica {
         //ffffff
         ///Editado
         ini();
+        
+        
+        ///esto en nuevo
     }
     public static void ini()
     {
