@@ -11,6 +11,9 @@ package practica;
  */
 public class COMIT {
     
-    
+    public void muestra ()
+    {
+        System.out.println("Hola");
+    }
     
 }
