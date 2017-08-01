@@ -18,6 +18,11 @@ public class Practica {
         // TODO code application logic here
         
         ////nuevooosss
+        ini();
     }
+    public static void ini()
+    {
+    
+    System.out.println("Hola");}
     
 }
