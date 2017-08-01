@@ -18,6 +18,8 @@ public class Practica {
         // TODO code application logic here
         
         ////nuevooosss
+        
+        ///Editado
         ini();
     }
     public static void ini()
